@@ -4,6 +4,11 @@ An end-to-end Machine Learning web application designed to assess creditworthine
 
 ---
 
+## 🚀 Live Demo
+
+Try the live application here: **[Credit Risk Prediction Dashboard](https://credit-risk-modeling-aepuysjwzjcmnsauqrikvp.streamlit.app/)**
+
+---
 ## 📌 Project Overview
 
 Financial institutions face substantial challenges in assessing whether an applicant is likely to default on a credit facility. This project leverages historical financial and demographic data from the German Credit dataset to build an automated risk classification model. 
